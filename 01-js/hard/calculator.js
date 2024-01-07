@@ -41,6 +41,9 @@ class Calculator {
   getResult = () => {
     return this.result;
   }
+  calculate=(equation)=>{
+
+  };
 
 }
 
